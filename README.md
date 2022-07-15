@@ -1,2 +1,1 @@
-# TinDog
-Intro-web to an imaginary app TinDog
+TinDog Starting Files
